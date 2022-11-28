@@ -1,0 +1,547 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1233px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 143px;
+  height: 143px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 400px auto 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 328px;
+  height: 328px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  background-image: url("images/2785810.jpg");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -525px auto 0 -20px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 372px;
+  height: 372px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  background-image: url("images/the-end-of-a-book-1120x1120.jpeg");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -365px 43px 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 474px;
+  height: 474px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 1;
+  background-image: url("images/books-featured.jpg");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -180px auto 0 264px;
+}
+
+.u-section-1 .u-image-4 {
+  width: 250px;
+  height: 250px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  background-image: url("images/2785810.jpg");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -274px auto 0 890px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 1054px;
+  min-height: 445px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 92px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  text-transform: none;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.1;
+  font-weight: 300;
+  font-size: 3.75rem;
+  font-family: Montserrat, sans-serif;
+  overflow-wrap: break-word;
+  color: rgb(178, 162, 137) !important;
+  margin: 0;
+}
+
+.u-section-1 .u-text-3 {
+  line-height: 2.25;
+  font-size: 1.125rem;
+  margin: 10px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1352px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 293px;
+    height: 293px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 268px;
+    height: 268px;
+    margin-right: 16px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 424px;
+    height: 424px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 213px;
+    height: 213px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 940px;
+    min-height: 550px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1676px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 12px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 313px;
+    height: 313px;
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 282px;
+    height: 282px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 466px;
+    height: 466px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1988px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 12px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 290px;
+    height: 290px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 460px;
+    height: 460px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-right: auto;
+    margin-left: 37px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 518px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2016px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 126px;
+    height: 126px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 255px;
+    height: 255px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 322px;
+    height: 322px;
+    margin-top: -148px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: -140px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 579px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2rem;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/2785810.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 498px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 847px;
+  min-height: 355px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  margin: 60px auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 300;
+  font-size: 3.4375rem;
+  margin: 2px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  margin: 21px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 411px;
+  }
+
+  .u-section-2 .u-group-1 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 0.3;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    background-position: 25.44% 50%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 617px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 394px;
+    min-height: 497px;
+    animation-duration: 1500ms;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 557px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 381px;
+    min-height: 438px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    background-position: 11.93% 50%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 824px;
+  }
+
+  .u-section-2 .u-group-1 {
+    min-height: 399px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 924px;
+}
+
+.u-section-3 .u-shape-1 {
+  width: 134px;
+  height: 133px;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 9px 412px 0 auto;
+}
+
+.u-section-3 .u-image-1 {
+  width: 505px;
+  height: 505px;
+  background-image: url("https://s26162.pcdn.co/wp-content/uploads/2020/01/bookstore-cat.jpeg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
+  margin: -84px auto 0 0;
+}
+
+.u-section-3 .u-image-2 {
+  width: 435px;
+  height: 435px;
+  background-image: url("https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/09/making-a-photo-book-digital-photography-school-adam-welch-1-5.jpg?resize=1500%2C1000&ssl=1");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -420px 84px 0 auto;
+}
+
+.u-section-3 .u-group-1 {
+  min-height: 231px;
+  width: 761px;
+  background-image: none;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 50px auto 0 0;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0 60px 14px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 1px auto 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-shape-2 {
+  width: 218px;
+  height: 218px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: -231px -19px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-image-2 {
+    margin-top: -421px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-group-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-shape-1 {
+    margin-right: 406px;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 664px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-right: 206px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 340px;
+    height: 340px;
+    margin-top: -256px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 340px;
+  }
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 434px;
+}
+
+.u-section-4 .u-shape-1 {
+  width: 265px;
+  height: 154px;
+  margin: 0 -24px 0 auto;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 2.25rem;
+  width: 854px;
+  margin: -21px auto 0;
+}
+
+.u-section-4 .u-shape-2 {
+  width: 250px;
+  height: 250px;
+  margin: -220px auto 60px -175px;
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-1 {
+    width: 340px;
+  }
+}
